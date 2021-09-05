@@ -14,3 +14,5 @@
 - "Does anybody know what we are living for? I guess I'm learning"
 
 Oder anders: "Nur wenn es wehtut, nutzt auch!"
+
+
