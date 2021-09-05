@@ -1,0 +1,21 @@
+# Bootcamp 1. Week
+
+## TIL
+
+### 3.9.2021
+
+### Cascade 
+
+-Wird verwendet den Selector noch spezifischer zu verwenden, Styling, Schrift, Schriftfaben, Hintergrundfarbe etc
+
+### Vererbung ( Inhereted)
+
+-je sparsamer ist der Code gestaltet, desto besser für die Rechenleistung, das ewige Problem!
+
+### Display Eigenschaften
+-Outer Display Type, Innerer Display Type (div ja, span no)
+-Position Property.. Standard Position(position:static), position : relativ (top or bottom, left or right)
+-es gilt als positioniert, wenn Position nicht static ist
+position: fixed
+position: absolute
+position: sticky geht aber nur bei header bei H1 nicht
