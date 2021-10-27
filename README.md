@@ -10,7 +10,7 @@
 
 ### New Update after 1st week
 
-- My Work / Lifestyle Balance leidet gerade, deswegen fühlt mich so, als ob mein Gehirn extaa Platz in meinem Schädel benötigen würde, aber ich glaube, genau das ist das was ich immer zitiere, und werde jetzt auch tun. 
+- My Work / Lifestyle Balance leidet gerade, deswegen fühl mich so, als ob mein Gehirn exta Platz in meinem Schädel benötigen würde, aber ich glaube, genau das ist das was ich immer zitiere, und werde jetzt auch tun. 
 - "Does anybody know what we are living for? I guess I'm learning"
 
 Oder anders: "Nur wenn es wehtut, nutzt auch!"
